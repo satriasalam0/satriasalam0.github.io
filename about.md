@@ -1,25 +1,20 @@
 ---
 layout: default
-title: About Long Haul
+title: About NEWBIE
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">About NEWBIE</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<p class="intro">Bismillahirrohmanirrohim.</p>
+	<p>Saya adalah mahasiswa Universitas Islam Negri Sultan Syarif Kasim Riau Fakultas Sains & Teknologi Jurusan Sistem Informasi.</p>
+	<h2>MY LIFE</h2>
 	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>Nama Satria Salam</li>
+  		<li>Nama Pendek Satria</li>
+  		<li>Tempat Lahir Dharmasraya</li>
+  		<li>Tanggal Lahir 21 agustus 1996</li>
+  		<li>Hobi Berenang,Nonton Film,Masak,Makan,Tidur</li>
+  		
   	</ul>
 </div>
