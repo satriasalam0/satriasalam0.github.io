@@ -1,4 +1,4 @@
-title: Long Haul
+title: SATRIA SALAM
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://brianmaierjr.github.com/long-haul
@@ -16,8 +16,8 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
+ - title: WEB SIF UIN
+   url: http://sif.uin-suska.ac.id/
 
 social:
    github: brianmaierjr
